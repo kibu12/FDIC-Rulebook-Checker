@@ -1,5 +1,3 @@
----
-
 # 🏦 AI Assistant for Bank Loan Review
 
 **FDIC Rulebook Checker (Section 3.2)**
