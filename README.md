@@ -1,6 +1,3 @@
-Nice project—this is a solid regulatory-AI system 👏
-Here’s a **professional, GitHub-ready README.md** you can copy directly.
-
 ---
 
 # 🏦 AI Assistant for Bank Loan Review
